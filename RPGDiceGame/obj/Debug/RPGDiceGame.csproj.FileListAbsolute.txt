@@ -4,3 +4,9 @@ c:\users\nathaniel\documents\visual studio 2015\Projects\RPGDiceGame\RPGDiceGame
 c:\users\nathaniel\documents\visual studio 2015\Projects\RPGDiceGame\RPGDiceGame\obj\Debug\RPGDiceGame.csprojResolveAssemblyReference.cache
 c:\users\nathaniel\documents\visual studio 2015\Projects\RPGDiceGame\RPGDiceGame\obj\Debug\RPGDiceGame.exe
 c:\users\nathaniel\documents\visual studio 2015\Projects\RPGDiceGame\RPGDiceGame\obj\Debug\RPGDiceGame.pdb
+C:\Users\Nathaniel\Documents\GitHub\RPGDiceGame\RPGDiceGame\bin\Debug\RPGDiceGame.exe.config
+C:\Users\Nathaniel\Documents\GitHub\RPGDiceGame\RPGDiceGame\obj\Debug\RPGDiceGame.exe
+C:\Users\Nathaniel\Documents\GitHub\RPGDiceGame\RPGDiceGame\obj\Debug\RPGDiceGame.pdb
+C:\Users\Nathaniel\Documents\GitHub\RPGDiceGame\RPGDiceGame\bin\Debug\RPGDiceGame.exe
+C:\Users\Nathaniel\Documents\GitHub\RPGDiceGame\RPGDiceGame\bin\Debug\RPGDiceGame.pdb
+C:\Users\Nathaniel\Documents\GitHub\RPGDiceGame\RPGDiceGame\obj\Debug\RPGDiceGame.csprojResolveAssemblyReference.cache
